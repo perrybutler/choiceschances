@@ -23,3 +23,9 @@ Chrome bug:
 Many scenarios:
 
 ![cc many](http://files.glassocean.net/github/cc-many.png)
+
+Custom flowtree algorithm bugs:
+
+![cc bug1](http://files.glassocean.net/github/cc-bug1.png)
+
+![cc bug2](http://files.glassocean.net/github/cc-bug2.png)
